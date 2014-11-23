@@ -1,0 +1,27 @@
+Content\myFont.xnb
+Content\Characters\circle.xnb
+Content\Characters\death.xnb
+Content\Characters\diamond.xnb
+Content\Characters\mrcircle-crouch.xnb
+Content\Characters\mrcircle.xnb
+Content\Characters\mrcircleAngry.xnb
+Content\Characters\shield.xnb
+Content\Characters\star.xnb
+Content\Levels\breakable.xnb
+Content\Levels\leftRamp.xnb
+Content\Levels\projectile.xnb
+Content\Levels\rightRamp.xnb
+Content\Levels\tile.xnb
+Content\lose screen.xnb
+Content\Menus\background.xnb
+Content\Menus\button.xnb
+Content\Menus\levelone.xnb
+Content\Menus\pauseScreen.xnb
+Content\Patterns\Level1\Pattern1.txt
+Content\Patterns\Level1\Pattern2.txt
+Content\Patterns\Level1\Pattern3.txt
+Content\Patterns\Level1\Pattern4.txt
+Content\Patterns\Level1\Pattern5.txt
+Content\Patterns\Level1\Pattern6.txt
+Content\Patterns\Level1\Pattern7.txt
+Content\Texts\insults.txt

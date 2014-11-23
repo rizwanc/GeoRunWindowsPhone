@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>myFont.spritefont</Source>
+      <Name>myFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\myFont.xnb</Output>
+      <Time>2014-11-15T15:25:06.4473948-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\circle.png</Source>
+      <Name>Characters\circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Characters\circle.xnb</Output>
+      <Time>2014-11-15T15:25:06.642406-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\death.png</Source>
+      <Name>Characters\death</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Characters\death.xnb</Output>
+      <Time>2014-11-15T15:25:06.6464062-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\diamond.png</Source>
+      <Name>Characters\diamond</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Characters\diamond.xnb</Output>
+      <Time>2014-11-15T15:25:06.6514065-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\mrcircle-crouch.png</Source>
+      <Name>Characters\mrcircle-crouch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Characters\mrcircle-crouch.xnb</Output>
+      <Time>2014-11-15T15:25:06.6744078-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\mrcircle.png</Source>
+      <Name>Characters\mrcircle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Characters\mrcircle.xnb</Output>
+      <Time>2014-11-15T15:25:06.71241-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\mrcircleAngry.png</Source>
+      <Name>Characters\mrcircleAngry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Characters\mrcircleAngry.xnb</Output>
+      <Time>2014-11-15T15:25:06.7214105-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\shield.png</Source>
+      <Name>Characters\shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Characters\shield.xnb</Output>
+      <Time>2014-11-15T15:25:06.7394115-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Characters\star.png</Source>
+      <Name>Characters\star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Characters\star.xnb</Output>
+      <Time>2014-11-15T15:25:06.7454119-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\breakable.png</Source>
+      <Name>Levels\breakable</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Levels\breakable.xnb</Output>
+      <Time>2014-11-15T15:25:06.6214048-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\leftRamp.png</Source>
+      <Name>Levels\leftRamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Levels\leftRamp.xnb</Output>
+      <Time>2014-11-15T15:25:06.625405-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\projectile.png</Source>
+      <Name>Levels\projectile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Levels\projectile.xnb</Output>
+      <Time>2014-11-15T15:25:06.6294052-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\rightRamp.png</Source>
+      <Name>Levels\rightRamp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Levels\rightRamp.xnb</Output>
+      <Time>2014-11-15T15:25:06.6334054-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\tile.png</Source>
+      <Name>Levels\tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Levels\tile.xnb</Output>
+      <Time>2014-11-15T15:25:06.6374057-05:00</Time>
+    </Item>
+    <Item>
+      <Source>lose screen.png</Source>
+      <Name>lose screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\lose screen.xnb</Output>
+      <Time>2014-11-15T15:25:06.4533951-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\background.jpg</Source>
+      <Name>Menus\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Menus\background.xnb</Output>
+      <Time>2014-11-15T15:25:06.5584012-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\button.jpg</Source>
+      <Name>Menus\button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Menus\button.xnb</Output>
+      <Time>2014-11-15T15:25:06.5944032-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\levelone.png</Source>
+      <Name>Menus\levelone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Menus\levelone.xnb</Output>
+      <Time>2014-11-16T01:09:34.664594-05:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\pauseScreen.png</Source>
+      <Name>Menus\pauseScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\Menus\pauseScreen.xnb</Output>
+      <Time>2014-11-15T15:25:06.6174045-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhoneContent\</RootDirectory>
+      <LoggerRootDirectory>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\</LoggerRootDirectory>
+      <IntermediateDirectory>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhoneContent\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-05-20T23:18:24.8100122-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

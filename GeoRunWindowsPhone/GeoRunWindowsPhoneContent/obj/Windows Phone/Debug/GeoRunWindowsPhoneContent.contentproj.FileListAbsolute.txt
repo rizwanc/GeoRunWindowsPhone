@@ -1,0 +1,1 @@
+c:\users\rizwan\documents\visual studio 2010\Projects\GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhoneContent\obj\Windows Phone\Debug\GeoRunWindowsPhoneContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoRunWindowsPhone", "GeoRunWindowsPhone\GeoRunWindowsPhone\GeoRunWindowsPhone.csproj", "{40E9401B-32D9-413A-9424-1CB2756878F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeoRunWindowsPhoneContent", "GeoRunWindowsPhone\GeoRunWindowsPhoneContent\GeoRunWindowsPhoneContent.contentproj", "{EF9E0705-DA28-49A3-A777-54ACB8BFA565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Windows Phone = Debug|Windows Phone
+		Release|Windows Phone = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40E9401B-32D9-413A-9424-1CB2756878F7}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{40E9401B-32D9-413A-9424-1CB2756878F7}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{40E9401B-32D9-413A-9424-1CB2756878F7}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{40E9401B-32D9-413A-9424-1CB2756878F7}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{40E9401B-32D9-413A-9424-1CB2756878F7}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{40E9401B-32D9-413A-9424-1CB2756878F7}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{EF9E0705-DA28-49A3-A777-54ACB8BFA565}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{EF9E0705-DA28-49A3-A777-54ACB8BFA565}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
